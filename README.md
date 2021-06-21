@@ -1,5 +1,6 @@
 # Word-Blogger
-Ethereum Blockchain backed blogging site, which runs on smart contract made using solidity.
+Ethereum Blockchain backed blogging site, which runs on smart contract made using solidity. \
+Working site proof : https://www.linkedin.com/feed/update/urn:li:activity:6811796508350918656/
 
 ## Packages and Tools needed :
 1. Truffle
